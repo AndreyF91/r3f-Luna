@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/r3f-Luna/static/css/main.7cb45e13.css",
+    "main.js": "/r3f-Luna/static/js/main.e6e551dc.js",
+    "static/js/787.4a9ac605.chunk.js": "/r3f-Luna/static/js/787.4a9ac605.chunk.js",
+    "static/media/preloader.png": "/r3f-Luna/static/media/preloader.bd42ba974cb3fb877e9c.png",
+    "static/media/Peace_Sans.otf": "/r3f-Luna/static/media/Peace_Sans.f59a8de8357e6c25d47c.otf",
+    "index.html": "/r3f-Luna/index.html",
+    "main.7cb45e13.css.map": "/r3f-Luna/static/css/main.7cb45e13.css.map",
+    "main.e6e551dc.js.map": "/r3f-Luna/static/js/main.e6e551dc.js.map",
+    "787.4a9ac605.chunk.js.map": "/r3f-Luna/static/js/787.4a9ac605.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb45e13.css",
+    "static/js/main.e6e551dc.js"
+  ]
+}
